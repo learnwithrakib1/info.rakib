@@ -171,7 +171,7 @@ section .title::after{
     color: #fff;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
-    background: #040346;
+    background: #000000;
 }
 .home .max-width{
   width: 100%;
