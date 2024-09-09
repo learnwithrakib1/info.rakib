@@ -90,7 +90,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: #000115;
+    background: linear-gradient(to right, #434343 0%, black 100%);
 }
 .navbar .max-width{
     display: flex;
@@ -171,7 +171,7 @@ section .title::after{
     color: #fff;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
-    background: #000000;
+    background: linear-gradient(to right, #434343 0%, black 100%);
 }
 .home .max-width{
   width: 100%;
@@ -260,7 +260,7 @@ section .title::after{
 /* services section styling */
 .services, .teams{
     color:#fff;
-    background: #111;
+    background: linear-gradient(to right, #434343 0%, black 100%);
 }
 .services .title::before,
 .teams .title::before{
